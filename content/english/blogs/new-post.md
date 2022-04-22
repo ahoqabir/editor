@@ -9,4 +9,4 @@ title = "New Post"
 +++
 # New Post
 
-![](images/post/05.jpg)
+![](/images/post/05.jpg)
