@@ -14,7 +14,7 @@ sections:
   label: English
   create: all
   match: "**/*"
-upload_dir: images/post
+upload_dir: static/images/post
 public_path: images/post
 front_matter_path: images/post
 use_front_matter_path: true
