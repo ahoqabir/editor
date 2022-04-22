@@ -9,4 +9,4 @@ title = "New Post"
 +++
 # New Post
 
-![](/static/images/post/screen-shot-2022-04-22-at-10-41-42-am.png)
+![](/static/images/post/screen-shot-2022-04-22-at-10-41-42-am.png)![](/static/images/post/15.png)
