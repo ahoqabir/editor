@@ -7,7 +7,7 @@ layout: "about"
 
 name: "BETA"
 email: "beta@domain.com"
-image: "images/IK_TEF_Logo.svg"
+image: "images/new_logo.png"
 summary: "An insight generation platform"
 
 partners:

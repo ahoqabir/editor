@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://betav2.netlify.app/"
-title = "Editor - Personal Blog Hugo Theme"
+title = "BETA"
 theme = "editor"
 # post pagination
 paginate = "12"
@@ -49,10 +49,10 @@ link = "plugins/search/search.js"
 #################### default parameters ################################
 [params]
 favicon = "images/logo-sm.svg"
-logo_text = "Editor"
-logo = "images/logo.svg"
+logo_text = "Beta"
+logo = "images/logo.png"
 logo_height = "26px"
-logo_rotate = true
+logo_rotate = false
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
