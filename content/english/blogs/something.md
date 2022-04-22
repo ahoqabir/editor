@@ -11,4 +11,4 @@ title = "Something "
 
 What is gray
 
-![gray](/static/images/post/12.png "Gray")
+![](/images/post/12.png)
