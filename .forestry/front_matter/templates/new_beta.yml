@@ -20,3 +20,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/english/blogs/post-1-1.md
